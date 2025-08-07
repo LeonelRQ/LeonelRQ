@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **leonelr@tirebase.io**
 
-- 📄 Know about my experiences [I have been working since 2023 as a Full Stack developer, but currently I am working as a Frontend developer](I have been working since 2023 as a Full Stack developer, but currently I am working as a Frontend developer)
+- 📄 Know about my experiences **I have been working since 2023 as a Full Stack developer, but currently I am working as a Frontend developer**
 
 - ⚡ Fun fact **I play league of legends :P**
 
